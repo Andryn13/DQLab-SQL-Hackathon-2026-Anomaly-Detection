@@ -22,6 +22,10 @@ This project aims to:
 
 ## Dataset
 
+The original dataset was provided as part of the DQLab SQL Hackathon 2026 and is not included in this repository.
+
+For demonstration purposes, this repository focuses on the SQL solution and analytical approach rather than redistributing the original competition dataset.
+
 The database consists of two tables.
 
 | Table | Description |
